@@ -1,4 +1,8 @@
-# Analyzing Salmon Age Distribution 
+# SalmonAgeDist 
   R code used to analyze the changes in the age distribution of hatchery salmon in Alaska.
   The files labeled CHUM 3-6, CHUM 34_56, CHUM 345_6, are the reorganization of returning fish by year for regression on CHUM. The files Year 2 3 Combined, Year 23 67 Combined, Year 2345 67 Combined and Year 23 45 67 Combined are used for the regression on Chinook salmon. CHUM_EggsReleased is used in the linear model in R as the y variable for Chum regression. Eggs_Released_Each_Year is used in the linear model in R as the y variable for Chinook regression. 
-  There is a powerpoint presentation available to view that outlines the framework of our research, as well as includes additional graphs that demonstrate the key conclusions of our analysis. 
+There is a powerpoint presentation available to view that outlines the framework of our research, as well as includes additional graphs that demonstrate the key conclusions of our analysis. 
+# Analyzing Salmon Age Distribution 
+  Declines in salmon sizes have been reported primarily as a result of younger maturation rates. This change in age distribution poses serious threats to salmon-dependent peoples and ecological systems. We perform a statistical analysis to examine the change in age structure of spawning Alaskan chum and Chinook salmon using 30 years of hatchery data. To highlight the impacts of this change, we investigate the average number of fry/smolt that each age of spawning chum/Chinook salmon produce. Our findings demonstrate an increase in younger hatchery salmon populations returning to spawn, and fewer amounts of fry produced by younger salmon compared to older salmon. These results suggest the potential risks associated with younger spawning salmon and aim to help better understand salmon behavior in order to sustain and protect healthy salmon populations.
+  
+  As stated above, the powerpoint presentation shows an outline of our research and findings. We currently have a paper going through the editing process. 
